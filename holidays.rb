@@ -90,3 +90,6 @@ class Cohort
   end
 
 end
+
+
+summer = Cohort.new(1)
